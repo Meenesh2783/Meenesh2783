@@ -24,13 +24,15 @@ A feature-rich React app for managing, liking, and deleting comments.
 An intuitive application for personal finance management, tracking expenses, and budgeting.
 
 🚀 What I'm Working On<br>
-<nbsp>Building robust APIs with Node.js, Express, and MongoDB.<br>
-Enhancing UI/UX for dynamic web applications using React.<br>
-Practicing SQL joins for advanced database operations.<br>
+     -Building robust APIs with Node.js, Express, and MongoDB.<br>
+     -Enhancing UI/UX for dynamic web applications using React.<br>
+     -Practicing SQL joins for advanced database operations.<br>
+     
 🌐 Connect with Me<br>
 🌍 LinkedIn<br>
 🐦 Twitter<br>
 💾 Portfolio<br>
+
 🌟 Let's Collaborate<br>
 I'm always looking to work on exciting projects and ideas. Feel free to reach out or fork my repositories to contribute!
 <!--
