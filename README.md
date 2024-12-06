@@ -1,6 +1,6 @@
 Hi there, I'm Meenesh👋
 
-I'm a Computer Science & Engineering Undergraduate.
+I'm a Computer Science & Engineering Undergraduate.<br>
 Web | Programmer | Fullstack Developer
 
 🌟 About Me
