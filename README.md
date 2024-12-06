@@ -3,12 +3,14 @@ Hi there, I'm Meenesh👋
 I'm a Computer Science & Engineering Undergraduate.<br>
 Web | Programmer | Fullstack Developer
 
-🌟 About Me<br>
+🌟 About Me:<br>
 💻 Tech Enthusiast: Skilled in JavaScript, Node.js, React, and MongoDB.<br>
 📜 Certified in JavaScript and actively exploring advanced development practices.<br>
 🔍 Problem-Solver: Expertise in designing APIs, dynamic rule engines, and scalable applications.<br>
 ✍️ Passion for Learning: Always up for mastering new tools and technologies.<br>
-💼 My Projects<br>
+
+💼 My Projects:<br>
+
 🚀 raghu-clubs<br>
 An innovative platform fostering collaboration and engagement among community members.
 
